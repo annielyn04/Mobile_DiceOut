@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Annie Lyn\.android\build-cache\902b984d10e46c025769f48119ede1a663cf083f\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\1cea9959b48ff0a30f93b22a014382d4b0f86893\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\99dba753442f9c791aa0478788aea6ff4aaf2e3a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\615022b4ffbecaa51eaae4c7b24bc07ea38f5bc1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\14b6fb55113856f20229656b316bf20ac404109d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\67a6874025586e9b66a8689236afb4b0964530fa\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\b40df0315014ea762cbc8a49c1c37bfbe1601f64\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\87889a4327da4da9420b54f9adddce5d083e09b0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\a7811d03c53160067c61a1e6c572e66a6a20dfa2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\859ebaad491939bddc85e80c026835f2ed0e7449\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\ffea3f34105fb3ec52fcf781b11d1ecc88a8d50e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\1e57b9c55fd5c08d74c86163b009f03c4283546f\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.diceout.MainActivity
+ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Annie Lyn\.android\build-cache\902b984d10e46c025769f48119ede1a663cf083f\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\1cea9959b48ff0a30f93b22a014382d4b0f86893\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\99dba753442f9c791aa0478788aea6ff4aaf2e3a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\615022b4ffbecaa51eaae4c7b24bc07ea38f5bc1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\14b6fb55113856f20229656b316bf20ac404109d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\1b927d60115c5ebf3c29746f8bb50173df487b9f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\67a6874025586e9b66a8689236afb4b0964530fa\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\b40df0315014ea762cbc8a49c1c37bfbe1601f64\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\87889a4327da4da9420b54f9adddce5d083e09b0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\a7811d03c53160067c61a1e6c572e66a6a20dfa2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\859ebaad491939bddc85e80c026835f2ed0e7449\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\ffea3f34105fb3ec52fcf781b11d1ecc88a8d50e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\1e57b9c55fd5c08d74c86163b009f03c4283546f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\1cea9959b48ff0a30f93b22a014382d4b0f86893\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Annie Lyn\AndroidStudioProjects\DiceOut\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\1cea9959b48ff0a30f93b22a014382d4b0f86893\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\99dba753442f9c791aa0478788aea6ff4aaf2e3a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\615022b4ffbecaa51eaae4c7b24bc07ea38f5bc1\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\14b6fb55113856f20229656b316bf20ac404109d\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\1b927d60115c5ebf3c29746f8bb50173df487b9f\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\67a6874025586e9b66a8689236afb4b0964530fa\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\b40df0315014ea762cbc8a49c1c37bfbe1601f64\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\87889a4327da4da9420b54f9adddce5d083e09b0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\a7811d03c53160067c61a1e6c572e66a6a20dfa2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\859ebaad491939bddc85e80c026835f2ed0e7449\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\ffea3f34105fb3ec52fcf781b11d1ecc88a8d50e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\1e57b9c55fd5c08d74c86163b009f03c4283546f\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\1cea9959b48ff0a30f93b22a014382d4b0f86893\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Annie Lyn\.android\build-cache\1cea9959b48ff0a30f93b22a014382d4b0f86893\output\AndroidManifest.xml:26:9-47

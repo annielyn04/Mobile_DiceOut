@@ -1,0 +1,7 @@
+#Fri Aug 11 11:20:17 SGT 2017
+base.0=C\:\\Users\\Annie Lyn\\AndroidStudioProjects\\DiceOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8b1a6741aa05f1aca34cd7d90c7e60d1d5879221
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Annie Lyn\\AndroidStudioProjects\\DiceOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2ef72b9b6af88100e95df5945121f0a4e87e6431\\classes.dex
+base.1=C\:\\Users\\Annie Lyn\\AndroidStudioProjects\\DiceOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2ef72b9b6af88100e95df5945121f0a4e87e6431
+file.0=C\:\\Users\\Annie Lyn\\AndroidStudioProjects\\DiceOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8b1a6741aa05f1aca34cd7d90c7e60d1d5879221\\classes.dex
